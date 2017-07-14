@@ -73,7 +73,7 @@ $(containerSelector).utable(UTableOption)
 
 ###4.2.2. UTableOption 表格主配置项
 如：
-```$(containerSelector).utable(UTableOption)```
+`$(containerSelector).utable(UTableOption)`
 
 <table>
     <tbody>
